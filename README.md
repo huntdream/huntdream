@@ -15,5 +15,3 @@
 	<br>
 	<br>
 </div>
-
-![](https://visitor-badge.glitch.me/badge?page_id=huntdream.huntdream)
