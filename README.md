@@ -2,7 +2,6 @@
 
 > I think therefore I am
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=huntdream/huntdream)
 
 <div align="center">
 	<br>
